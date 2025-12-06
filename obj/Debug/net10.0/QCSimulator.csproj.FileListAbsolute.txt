@@ -1,0 +1,14 @@
+C:\Users\AC\source\repos\QCSimulator\QCSimulator\bin\Debug\net10.0\QCSimulator.exe
+C:\Users\AC\source\repos\QCSimulator\QCSimulator\bin\Debug\net10.0\QCSimulator.deps.json
+C:\Users\AC\source\repos\QCSimulator\QCSimulator\bin\Debug\net10.0\QCSimulator.runtimeconfig.json
+C:\Users\AC\source\repos\QCSimulator\QCSimulator\bin\Debug\net10.0\QCSimulator.dll
+C:\Users\AC\source\repos\QCSimulator\QCSimulator\bin\Debug\net10.0\QCSimulator.pdb
+C:\Users\AC\source\repos\QCSimulator\QCSimulator\obj\Debug\net10.0\QCSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AC\source\repos\QCSimulator\QCSimulator\obj\Debug\net10.0\QCSimulator.AssemblyInfoInputs.cache
+C:\Users\AC\source\repos\QCSimulator\QCSimulator\obj\Debug\net10.0\QCSimulator.AssemblyInfo.cs
+C:\Users\AC\source\repos\QCSimulator\QCSimulator\obj\Debug\net10.0\QCSimulator.csproj.CoreCompileInputs.cache
+C:\Users\AC\source\repos\QCSimulator\QCSimulator\obj\Debug\net10.0\QCSimulator.dll
+C:\Users\AC\source\repos\QCSimulator\QCSimulator\obj\Debug\net10.0\refint\QCSimulator.dll
+C:\Users\AC\source\repos\QCSimulator\QCSimulator\obj\Debug\net10.0\QCSimulator.pdb
+C:\Users\AC\source\repos\QCSimulator\QCSimulator\obj\Debug\net10.0\QCSimulator.genruntimeconfig.cache
+C:\Users\AC\source\repos\QCSimulator\QCSimulator\obj\Debug\net10.0\ref\QCSimulator.dll
